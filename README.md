@@ -1,6 +1,6 @@
 # Restaurant_Database
 
-##Screenshots
+## Screenshots
 
 *Mainwindow.ui (Autorization)*
 ![Безымянный](https://user-images.githubusercontent.com/97480374/222922980-d85a0fd0-5753-4732-a20f-ad5b0002c370.png)
